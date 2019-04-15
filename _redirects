@@ -1,1 +1,3 @@
-/*    /index.html   200
+/api/dev/*     https://cptnhk.herokuapp.com/:splat  200
+/api/testnet/* https://blockstream.info/testnet/api/:splat 200
+/*             /index.html   200
